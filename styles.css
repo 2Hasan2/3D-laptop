@@ -154,9 +154,9 @@
     background: #444;
     margin-bottom: 5px;
     justify-content: center;
-    flex-wrap: wrap;
-    flex-direction: row;
     overflow: hidden;
+    flex-direction: row;
+    flex-wrap: nowrap;
 }
 
 .body .touchpad::before {
